@@ -1,0 +1,9 @@
+{
+  "name": "nightmare-ts-scraper",
+  "version": "1.0.0",
+  "description": "Webscraping project using nightmare.js, written in typescript.",
+  "main": "index.js",
+  "repository": "https://github.com/JarvisPrestidge/nightmare-ts-scraper.git",
+  "author": "Jarvis Prestidge",
+  "license": "MIT"
+}
